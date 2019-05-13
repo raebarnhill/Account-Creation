@@ -1,0 +1,35 @@
+body {
+	font-size: 18px;
+	font-family: Helvetica Neue, Helvetica, sans-serif;
+	background-color: #BFBFBF;
+}
+	
+.description {
+	font-size: 20px;
+	font-family: Helvetica Neue, helvetica, sans-serif:
+}
+
+input[type="text"],
+input[type="firstname"] {
+	width: 300px;
+	border: 4px double #dedee0;
+	margin: 25px 5px;
+	border-radius: 2px;
+}
+
+input[type="text"],
+input[type="lastname"] {
+	width: 300px;
+	border: 4px double #dedee0;
+	margin: 25px 5px;
+	border-radius: 2px;
+}
+
+input[type="text"],
+input[type="email"] {
+	width: 300px;
+	border: 4px double #dedee0;
+	margin: 25px 5px;
+	border-radius: 2px;
+}
+
